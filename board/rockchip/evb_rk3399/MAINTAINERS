@@ -49,6 +49,12 @@ S:	Maintained
 F:	configs/nanopi-m4-2gb-rk3399_defconfig
 F:	arch/arm/dts/rk3399-nanopi-m4-2gb-u-boot.dtsi
 
+NANOPC-M4V2
+M:	Shuying Li <libunko@qq.com>
+S:	Maintained
+F:	configs/nanopi-m4v2-rk3399_defconfig
+F:	arch/arm/dts/rk3399-nanopi-m4v2-u-boot.dtsi
+
 NANOPI-NEO4
 M:	Jagan Teki <jagan@amarulasolutions.com>
 S:	Maintained
